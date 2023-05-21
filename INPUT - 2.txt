@@ -1,0 +1,33 @@
+lineup,Jan Galang,regular
+lineup,Stephen Ong,VIP
+lineup,Queen Alandy Dy,VIP
+lineup,Leontine Sarmiento,VIP
+serve
+serve
+serve
+lineup,Reynolds Tan,VIP
+lineup,Karlo Banzuela,VIP
+arrive,supervisor
+serve
+leave,supervisor
+lineup,Luis Gaza,VIP
+lineup,Eunice Tsai,regular
+serve
+lineup,Justine Salagubang,VIP
+lineup,Christin Espinosa,VIP
+serve
+serve
+serve
+serve
+lineup,Alvin Santos,VIP
+lineup,Jejomar Dimayuga,regular
+arrive,supervisor
+serve
+serve
+serve
+lineup,Joana Tan,regular
+lineup,Dorothy Yu,VIP
+serve
+leave,supervisor
+serve
+serve
